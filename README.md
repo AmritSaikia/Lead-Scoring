@@ -10,6 +10,9 @@ This repository presents the Lead Scoring Case Study, an academic project aimed 
 ## Problem Statement:
 X Education generates leads through online platforms but struggles with a low conversion rate of 30%. The project’s goal is to create a model to identify "Hot Leads," aiming to increase the conversion rate to 80%.
 
+![image](https://github.com/user-attachments/assets/93727440-2f1d-4a16-a08f-a58216aefe9c)
+
+
 ## Goals:
 * Logistic Regression Model: Develop a model to assign a lead score (0-100) that predicts conversion probability.
 * Data Insights: Analyze the dataset to identify factors driving lead conversion and prioritize leads.
