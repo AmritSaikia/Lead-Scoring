@@ -2,8 +2,8 @@
 
 This repository presents the Lead Scoring Case Study, an academic project aimed at enhancing the lead conversion process for X Education, an online course provider. The project focuses on building a logistic regression model to score leads, helping the sales team target high-potential leads more effectively.
 
-##Project Deliverables:
-*Logistic Regression Model: Predicts the likelihood of lead conversion.
+## Project Deliverables:
+* Logistic Regression Model: Predicts the likelihood of lead conversion.
 *Data Analysis: Employs statistical and machine learning techniques to analyze lead data.
 *Business Insights: Provides actionable recommendations based on model outcomes.
 
