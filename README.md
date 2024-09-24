@@ -45,11 +45,6 @@ The dataset consists of around 9000 leads with features like:
 
 ## Running the Project:
 * Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/ManjitSingh2003/Lead-Scoring.git
-
 * Run the Jupyter notebook to preprocess the data, build the model, and evaluate results. Review the accompanying analysis, presentation, and report for business insights.
 
 ## Key Learnings:
